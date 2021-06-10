@@ -1,0 +1,25 @@
+_repo: Life-of-James-Mars-a-Slave-Born-and-Sold-in-Connecticut_65456
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mars, James
+    birthdate: 1790
+    gutenberg_agent_id: '53359'
+    url: http://www.gutenberg.org/2009/agents/53359
+description: ''
+gutenberg_issued: '2021-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65456'
+  lccn: '19016820'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'Slavery -- Connecticut'
+- !lcsh 'Mars, James, 1790-'
+- GITenberg
+title: Life of James Mars, a Slave Born and Sold in Connecticut
+url: http://www.gutenberg.org/ebooks/65456
