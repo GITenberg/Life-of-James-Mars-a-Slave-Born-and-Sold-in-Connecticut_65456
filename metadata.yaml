@@ -1,5 +1,8 @@
 _repo: Life-of-James-Mars-a-Slave-Born-and-Sold-in-Connecticut_65456
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65456-h/images/cover.jpg
 creator:
   author:
     agent_name: Mars, James
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '53359'
     url: http://www.gutenberg.org/2009/agents/53359
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65456#Life-of-James-Mars-a-Slave-Born-and-Sold-in-Connecticut
 gutenberg_issued: '2021-05-27'
 gutenberg_type: Text
 identifiers:
